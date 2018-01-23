@@ -1,7 +1,7 @@
 Recruiting a crew:
  - Pilot ?
  - CoPilot ?
- - Cook
+ - Cook --> Merel would like to help as a cook
  - Astronaut
  - Technician
  - Cleaner
