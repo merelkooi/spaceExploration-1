@@ -1,7 +1,7 @@
 Recruiting a crew:
  - Pilot ?
  - CoPilot ?
- - Cook
+ - Cook: Jamie Oliver
  - Astronaut
  - Technician
  - Cleaner
