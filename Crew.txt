@@ -1,7 +1,9 @@
 Recruiting a crew:
  - Pilot ?
  - CoPilot ?
- - Cook --> Merel would like to help as a cook
+ - Cook: Jamie Oliver
+ - Souschef: Merel
  - Astronaut
  - Technician
  - Cleaner
+ - Robot
